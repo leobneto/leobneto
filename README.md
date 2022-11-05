@@ -1,9 +1,8 @@
 👋 Hi, I’m Leonardo Batista!
 
-I'm Leonardo Batista and i'm waiting to start my bachelor's degree at Universidade Federal Rural de Pernambuco (UFRPE)
+I'm Leonardo Batista and i'm a bachelor's degree student at Universidade Federal Rural de Pernambuco (UFRPE).
 
-At this moment i'm studying Web Development with the course WEB DEV FULL STACK PROGRAMADOR BR, where i'll
-learn ReactJS, NodeJS, MongoDB and much more.
+Since 1 year ago, i'm studying Web Development Full-Stack with the course WEB DEV FULL STACK PROGRAMADOR BR and JSTACK, where i'm learning about HTML, CSS, JAVASCRIPT, NODEJS, REACTJS, POSTGRESQL, DOCKER, and much more.
 
 <div>
   <a href="https://github.com/leobneto">
@@ -11,9 +10,13 @@ learn ReactJS, NodeJS, MongoDB and much more.
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="html-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="css-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="js-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="node-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="react-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="postgresql-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="docker-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 </div>
 <br>
 <div>
